@@ -1,0 +1,11 @@
+micronaut:
+  application:
+    name: desafioCasaDoCodigo
+datasources:
+  default:
+    url: jdbc:postgresql://localhost:5432/casadocodigo
+    driverClassName: org.postgresql.Driver
+    username: root
+    password: '1234'
+    dialect: POSTGRES
+jpa.default.properties.hibernate.hbm2ddl.auto: update

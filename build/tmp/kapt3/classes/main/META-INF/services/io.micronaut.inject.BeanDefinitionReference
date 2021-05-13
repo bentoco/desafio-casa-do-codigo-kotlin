@@ -1,0 +1,10 @@
+br.com.orangetalents.authors.$UpdateAuthorControllerDefinitionClass
+br.com.orangetalents.authors.$AuthorRepository$InterceptedDefinitionClass
+br.com.orangetalents.authors.$$UpdateAuthorControllerDefinition$InterceptedDefinitionClass
+br.com.orangetalents.authors.$$RegisterAuthorControllerDefinition$InterceptedDefinitionClass
+br.com.orangetalents.authors.$RegisterAuthorControllerDefinitionClass
+br.com.orangetalents.authors.$SearchAuthorControllerDefinitionClass
+br.com.orangetalents.authors.$$SearchAuthorControllerDefinition$InterceptedDefinitionClass
+br.com.orangetalents.authors.$AddressClient$InterceptedDefinitionClass
+br.com.orangetalents.authors.$DeleteAuthorControllerDefinitionClass
+br.com.orangetalents.authors.$$DeleteAuthorControllerDefinition$InterceptedDefinitionClass
